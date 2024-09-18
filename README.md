@@ -6,7 +6,8 @@ Movies web application, which movies can be searched and look for reviews.
 * connection of frontend web app to backend web API
 
 Home
-![Home](https://github.com/user-attachments/assets/2e88eaad-1cba-421e-a27e-e0a918874cb7)
+![Screenshot 2024-09-18 094817](https://github.com/user-attachments/assets/3c941a4e-20c3-4f68-9c95-363ce09a7a29)
+
 
 Reviews
 ![Movie reviews](https://github.com/user-attachments/assets/93b0a3e8-d08f-4105-9321-3d5132a9e727)
